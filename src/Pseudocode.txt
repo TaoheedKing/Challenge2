@@ -1,0 +1,38 @@
+import java.util.Collections; 
+import java.util.ArrayList;
+
+25 burritos
+Declare sum of type double and initialize to 3.00
+Declare ArrayList of type String named Rice
+add white, brown, none, all
+Declare ArrayList of type String named Meat
+add chicken, steak, carnidas, chorizo, sofritas, veggie meat. none, all
+Declare ArrayList of type String named Beans
+add pinto, black, none, all
+Declare ArrayList of type String named Salsa
+add mild, medium,, hot, none, all
+Declare ArrayList of type String named Cheese
+add cheese, no cheese
+Declare ArrayList of type String named Guac
+add, guac, no guac
+Declare ArrayList of type String named Queso
+add queso, no queso
+Declare ArrayList of type String named Sour Cream
+add sour cream, no sour cream
+
+in negations = 0;
+
+int searchIndex = Collections.binarySearch(temperatureList, 39.8); 
+if(searchIndex >=0){ 
+System.out.println("Temperature found." + searchIndex); 
+}else{ 
+System.out.println("Temperature not found." + searchIndex); 
+}
+
+for loop (int i = 0; i <= 25; i++){
+  if ArrayList rice is = none
+    sum += 0.0;
+} else {
+     sum += 0.50;
+     print out random rice option
+     
